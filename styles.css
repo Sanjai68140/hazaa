@@ -1,0 +1,33 @@
+
+/* button {
+   background-color: #008cba; 
+   font-size: 40px;
+   border-radius: 12px;
+   color: white;
+} */
+/* .r1{
+   position:absolute;
+   top: 60%;
+   left:50%;
+   -webkit-transform: translate(-50%, -50%);
+   -ms-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+   
+   
+} */
+img {
+   width: 80%;
+   /* height: 50%; */
+   /* max-width: 400px; */
+   height: auto;
+ }
+
+ @media all and (max-width:480px){
+   img{
+      width: 100%;
+   }
+ }
+
+   
+ 
+
